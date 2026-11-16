@@ -44,5 +44,8 @@ m. Harmonic Lock of Frequency Sliding: compute_FreqSlide_HarmonicRatioLock
 please contact me for any issues with the code
 
 Dr. Antonios G. Dougalis  
+Institute of Applied and Computational Mathematics (IACM)
+Foundation of Research and Technology Hellas (FORTH),
+Ν. Plastira 100, Vassilika Vouton, GR70013 Heraklion, Crete, Greece
 Email: antoniosdougalis@med.uoc.gr; antoniosdougalis@gmail.com  
 ORCID: https://orcid.org/0000-0002-2139-1616
