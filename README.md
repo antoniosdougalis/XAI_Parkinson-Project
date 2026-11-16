@@ -1,4 +1,4 @@
-# Multi-Head Attention-Transformer Architecture for EEG Feature classification in Parkinson's Disease
+# Beyond Classification Accuracy: A Physiologically Informed Framework for Interpretable EEG Biomarkers in Parkinson's Disease
 
 A Python-based Pre-Processing and Deep-Learning pipeline of scripts for the submitted manuscript 
 
